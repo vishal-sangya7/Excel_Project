@@ -20,6 +20,7 @@ needs and goals of each customer, and could be integrated into their overall fit
 company also developed its own line of meal replacement products to be used as part of the diet
 plans.
 As WeFit's online presence grew, the company started to offer virtual classes and training
+[FitBit Dataset.zip](https://github.com/user-attachments/files/15552464/FitBit.Dataset.zip)
 programs that could be accessed through their apps or website. These offerings became
 particularly popular during the COVID-19 pandemic, when many people were unable to attend
 in-person fitness classes.
